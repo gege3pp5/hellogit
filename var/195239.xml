@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+ <student>
+  <firstname>Grzegorz</firstname>
+  <lastname>Wiecek</lastname>
+  <email>s195239@uek.krakow.pl</email>
+  <github>gege3pp5</github>
+  <group>KrDZIs3012Io</group>
+ </student>
+</students>
